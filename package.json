@@ -1,0 +1,19 @@
+{
+  "name": "nlp-node",
+  "version": "1.0.0",
+  "description": "natural languagre processing",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatindodiya/nlp-node.git"
+  },
+  "author": "Jatin Dodiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jatindodiya/nlp-node/issues"
+  },
+  "homepage": "https://github.com/jatindodiya/nlp-node#readme"
+}
